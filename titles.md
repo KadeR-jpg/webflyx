@@ -5,3 +5,4 @@
 * 12 Years a Slave
 * The Big Short
 * 12 Monkeys
+* Dawn Of The Planet Of The Apes
